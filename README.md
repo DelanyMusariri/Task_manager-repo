@@ -1,26 +1,28 @@
-Hi there..
+Hi there...
 
-This was my very first project in which i'm very proud of 
+About
 
-About:
+This was my very first project, and I am very proud of it!
 
- This project was desinged for a business that hass staff that work task related. 
- So this programme was designed to help staff and manager to keep track of their tasks. 
- I created this programme with python and it shows my creative thinking and problem solving as well my skill in clean and efficient code.
- I came accross some barriers during the creation of this project but with guidence of a mentor i was abble to overcome it.
- With the help of the mentor i was able to learn how to navigate errors/problems and work my way through it by debugging and problemm solving 
+I designed this program for a business with task-based staff. It helps both employees and managers keep track of their tasks efficiently. I built this project using Python, showcasing my creative thinking, problem-solving skills, and ability to write clean and efficient code.
 
+During development, I encountered several challenges, but with the guidance of a mentor, I learned how to debug effectively and navigate errors. This experience helped me develop strong problem-solving skills, which I carried forward into future projects.
 
- The programme works by logging into with a username and password.
- Soon after that you are given a menu with the options to viewing and adding tasks.
- 
-steps to view programme:
+How It Works:
 
- You are able to see how the programme works by using any code editor such ass Visual Studio Code.
- Copy the code from the task manager file and paste it to the code editor and save it as a pyhon file.
- Create 2 other text files...
- One being the user file with the usernames and passwords (copy text from the user file)
- and the other being the task file  (copy text from the user file).
- Now that you have all the files run the task manager file .
+The program operates through a simple login system that requires a username and password. Once logged in, users are presented with a menu that allows them to:
 
- I hope you get to see the the code style creativity and efficiency fore it is my first ever project and hope to show the progression when viewing the next project: Tracker app
+View existing tasks and
+Add new tasks
+
+How to Run the Programme:
+
+Open any code editor, such as Visual Studio Code.
+Copy the code from the task_manager.py file and paste it into the editor. Save the file as a python file
+Create two other text files:
+user.txt: Contains usernames and passwords. (Copy the contents from the user file.)
+tasks.txt: Stores task information. (Copy the contents from the tasks file.)
+Ensure all files are in the same directory.
+Run task_manager.py to start the program.
+
+ I hope you appreciate the creativity and efficiency of my code. As this was my first project, I am excited to showcase my growth with my next project: Tracker App.
