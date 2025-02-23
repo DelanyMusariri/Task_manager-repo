@@ -1,7 +1,9 @@
 Hi there..
+
 This was my very first project in which i'm very proud of 
 
 About:
+
  This project was desinged for a business that hass staff that work task related
  So this programme was designed to help staff and manager to keep track of their tasks
  I created this programme with python and it shows my creative thinking and problem solving as well my skill in clean and efficient code 
@@ -13,6 +15,7 @@ About:
  Soon after that you are given a menu with the options to viewing and adding tasks 
  
 steps to view programme:
+
  You are able to see how the programme works by using any code editor such ass Visual Studio Code 
  Copy the code from the task manager file and paste it to the code editor and save it as a pyhon file 
  Create 2 other text files...
