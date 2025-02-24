@@ -1,8 +1,8 @@
-Hi there...
+Hi there, and welcome to my Task manager app!
 
 About
 
-This was my very first project, and I am very proud of it!
+This was my very first project from the bootcamp which i'm very proud of!
 
 I designed this program for a business with task-based staff. It helps both employees and managers keep track of their tasks efficiently. I built this project using Python, showcasing my creative thinking, problem-solving skills, and ability to write clean and efficient code.
 
